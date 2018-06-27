@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Atacado_Jogos",
+    "icon": "./puzzle.png",
+    "version": "1.0.0",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.atacado.jogoatacado"
+    },
+    "android": {
+      "package": "com.atacado.jogoatacado"
+    }
+  }
+}
